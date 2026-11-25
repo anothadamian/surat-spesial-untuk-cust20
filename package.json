@@ -1,5 +1,5 @@
 {
-  "name": "forminatobaby",
+  "name": "clement-site",
   "version": "1.0.0",
   "private": true,
   "scripts": { "dev": "next dev --webpack", "build": "next build --webpack", "start": "next start", "lint": "eslint ." },
